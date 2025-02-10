@@ -15,23 +15,23 @@
   
 <a href="mailto:royetcamay@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="mail" style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp
 
 <a href="#" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="twitter" style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp
 
 <a href="#" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="instagram" style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp
 
 <a href="#" target="_blank">
 <img src="./github.png" width=50 height=50 alt="github" style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp
 
 <a href="https://www.linkedin.com/in/royet-camay-6a9458133/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+</a>&nbsp
 
 <a href="#" target="_blank">
 <img src="./dev_to.png" width=50 height=50 alt="devto" style="margin-bottom: 5px;" />
@@ -41,7 +41,10 @@
 
 <!--Buy me a coffee-->
 <div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<h2 align="center">Scan QR Code</h2>
+<img src="./dev_to.png" width=50 height=50 alt="devto" style="margin-bottom: 5px;" /></br>
+<h2 align="center">OR</h2></br>&nbsp;
+<a href="https://buymeacoffee.com/royetcamayk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 
