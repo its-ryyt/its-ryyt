@@ -1,6 +1,6 @@
 ![banner 5](https://github.com/user-attachments/assets/f0d5072f-52bc-42e3-8015-757e2bb07f9b)
 
-<!--Night Owl image-->
+<!--Night Owl image Icon-->
 </br>
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
