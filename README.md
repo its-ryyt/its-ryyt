@@ -1,4 +1,4 @@
-![banner 4](https://github.com/user-attachments/assets/75766310-1251-4741-b213-9259959c7656)
+![banner 5](https://github.com/user-attachments/assets/f0d5072f-52bc-42e3-8015-757e2bb07f9b)
 
 - 👋 Hi, I’m @its-ryyt
 - 👀 I’m interested in ...
