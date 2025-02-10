@@ -68,14 +68,14 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <!--- <td width="50%">
       <p align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></p>
       <p align="center">
         <a href="https://github.com/Kiran1689/Awesome-Dev-Portfolios">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
-    </td>
+    </td> --->
     <td width="50%">
       <p align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></p>
       <p align="center">
