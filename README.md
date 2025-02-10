@@ -1,12 +1,34 @@
 ![banner 5](https://github.com/user-attachments/assets/f0d5072f-52bc-42e3-8015-757e2bb07f9b)
 
-- 👋 Hi, I’m @its-ryyt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--Night Owl image-->
+</br>
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi ɪ'ᴍ Rytt! 
+*Innovator (Developer / Programmer)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left" style="text-align: justify">
+A solution-driven software and web developer, specialized in building and optimizing web applications with hands-on experience in integrating third-party API's and managing databases.
+I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Data Visualization. 
+</p>
+
+- ✨ Tech Explorer :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://royetcamay.com) for more details about me.
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=its-ryyt&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="its-ryyt" style="padding-right:20px;" />
+</p>
+
+---
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
@@ -20,6 +42,8 @@
   </a>
 </p>
 <br />
+
+---
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
@@ -64,11 +88,15 @@
 </table>
 <br />
 
+---
+
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=its-ryyt&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
+
+---
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
@@ -77,6 +105,8 @@
     <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=Life%20begins%20where%20fear%20ends.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
+---
 
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -107,6 +137,8 @@
 </a>
 </div>
 <br/>
+
+---
 
 <!--Buy me a coffee-->
 <div align="center">
