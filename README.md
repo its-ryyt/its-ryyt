@@ -1,4 +1,10 @@
+<!--Banner Cover Image--> 
 ![banner 5](https://github.com/user-attachments/assets/f0d5072f-52bc-42e3-8015-757e2bb07f9b)
+
+<!--Header--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&width=300&color=gradient&text=Full-stack%20Developer&fontAlign=50&section=header&reversal=false&textBg=false&fontSize=41&fontAlignY=35&fontColor=FFFFFF&animation=twinkling"/>
+</p>
 
 <!--Night Owl image Icon-->
 </br>
@@ -6,7 +12,7 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header Name-->
+<!--About Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi ɪ'ᴍ Rytt! 
 *Innovator (Developer / Programmer)*
 <br /> 
@@ -32,7 +38,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 <h2 align="center"><img src="https://github.com/user-attachments/assets/dad0ca5b-b821-405e-aea7-389c5a5ddf74" alt="Visual Studio" width="20" height="20"/> Tools Expertise</h2>
 <br />
-<p align="center"> 
+<div align="center"> 
   
 <a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/448d2ba4-d069-4b05-8232-836b7978f7b3" alt="Visual Studio" width="60" height="60"/> </a> &nbsp;&nbsp;
 <a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/e3d734a5-7a96-4d4c-90d2-c09bf14d52a0" alt="VS Studio" width="60" height="60"/> </a> &nbsp;&nbsp;
@@ -44,7 +50,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 <a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/e80de95f-c12c-4c89-846d-f3ec053e61b0" alt="Azure Dev" width="60" height="60"/> </a> &nbsp;&nbsp;
 <a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/59671b45-aa92-4d56-856c-f6c406bb978a" alt="MySQL" width="60" height=""/> </a>  &nbsp;&nbsp;
 <a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/c3ad60d0-ed73-4108-b1ca-0866bdff63ad" alt="Oracle" width="60" height=""/> </a> &nbsp;&nbsp;
-</p> 
+</div> 
 
 <br />
 
