@@ -30,14 +30,29 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/dad0ca5b-b821-405e-aea7-389c5a5ddf74" alt="Visual Studio" width="20" height="20"/> Tools Expertise</h2>
+<br />
+<p align="center"> 
+  
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/448d2ba4-d069-4b05-8232-836b7978f7b3" alt="Visual Studio" width="60" height="60"/> </a> &nbsp;&nbsp;
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/e3d734a5-7a96-4d4c-90d2-c09bf14d52a0" alt="VS Studio" width="60" height="60"/> </a> &nbsp;&nbsp;
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/cdd8f411-3a88-4a7d-b2e8-378510c6e768" alt="SQL Server" width="60" height="60"/> </a> &nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/> </a> &nbsp;&nbsp;
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/909ac159-fa2f-4ea9-a12c-c47d44bd746c" alt="Photoshop" width="60" height="60"/> </a> &nbsp;&nbsp;
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/9f7a07c0-53d2-48ea-9a10-12e121b4ad20" alt="Illustrator" width="60" height="60"/> </a> &nbsp;&nbsp;
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/b8bb1ce5-e8dc-43c5-92fe-c295ed465f28" alt="WebStorm" width="60" height="60"/> </a> &nbsp;&nbsp;
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/e80de95f-c12c-4c89-846d-f3ec053e61b0" alt="Azure Dev" width="60" height="60"/> </a> &nbsp;&nbsp;
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/59671b45-aa92-4d56-856c-f6c406bb978a" alt="MySQL" width="60" height=""/> </a>  &nbsp;&nbsp;
+<a href="#" target="_blank"> <img src="https://github.com/user-attachments/assets/c3ad60d0-ed73-4108-b1ca-0866bdff63ad" alt="Oracle" width="60" height=""/> </a> &nbsp;&nbsp;
+</p> 
+
+<br />
+
 
 ---
 
-<!--Languages and Tools Section-->   
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<!--Languages and Tools Section-->         
+<h2 align="center"><img src="https://github.com/user-attachments/assets/e1cc7a04-15b7-4b6e-96c9-995a0aa3edb1" alt="Visual Studio" width="20" height="20"/> Tᴇᴄʜ sᴛᴀᴄᴋ & Tech Updates</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -45,19 +60,21 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
+<span align="left"><strong>Current Learning</strong></span>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Deepening my knowledge on AI.</li>
+  <li>Exploring advanced in C# ASP.NET patterns and structure management techniques.</li>
+  <li>Improving my skills in API Integration.</li>
 </ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
+</br>
+<span align="left"><strong>Tech Updates</strong></span></br></br>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/debug-like-a-pro-in-2025-3lg1">😎Debug Like a Pro in 2025🧑‍💻</a></li>
-  <li><a href="https://dev.to/dev_kiran/open-source-hidden-gems-v2-4e8j">✨Open-Source Hidden Gems v2🤯</a></li>
-  <li><a href="https://dev.to/dev_kiran/you-should-try-these-tools-in-your-next-project-469">🫵You Should Try These Tools In Your Next Project</a></li>
+  <li><a href="#">😎Debug Like a Pro in 2025🧑‍💻</a></li>
+  <li><a href="#">✨Open-Source Hidden Gems v2🤯</a></li>
+  <li><a href="#">🫵You Should Try These Tools In Your Next Project</a></li>
 </ul>
+<br />
+<br />
 <br />
 <br />
 <br />
