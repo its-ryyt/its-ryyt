@@ -252,7 +252,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 <div align="center">
 <h2 align="center"><img src="https://github.com/user-attachments/assets/f6c17fd2-2453-4e52-ba1f-cff1a5c92563" width=30 height=30 alt="Support"> Support Developer ❤️ </h2></br>
 <p align="center"><strong>Scan QR Code</strong></p>
-<img src="./bmc_qr.png" width=200 height=200 alt="devto" style="margin-bottom: 5px;" /></br>
+<img src="./bmc_qr.png" width=200 height=200 alt="devto" style="margin-bottom: 5px; border:2px solid grey;" /></br>
 <span align="center">OR</span></br>&nbsp;
 <a href="https://buymeacoffee.com/royetcamayk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
