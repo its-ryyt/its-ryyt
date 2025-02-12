@@ -184,7 +184,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 ---
 
 <!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/e8d064df-0211-42fb-9acc-d1fe5e16544b" width=30 height=30 alt="Connect"> Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🌍 </h2>
 <div align="center">
   
 <a href="mailto:royetcamay@gmail.com" target="_blank">
@@ -217,7 +217,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 <!--Buy me a coffee-->
 <div align="center">
-<h2 align="center">🤝 Support Developer 🤝 </h2></br>
+<h2 align="center"><img src="https://github.com/user-attachments/assets/f6c17fd2-2453-4e52-ba1f-cff1a5c92563" width=30 height=30 alt="Support"> Support Developer ❤️ </h2></br>
 <p align="center"><strong>Scan QR Code</strong></p>
 <img src="./bmc_qr.png" width=200 height=200 alt="devto" style="margin-bottom: 5px;" /></br>
 <span align="center">OR</span></br>&nbsp;
