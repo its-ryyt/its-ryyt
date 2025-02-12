@@ -8,11 +8,12 @@
 
 <!--Night Owl image Icon-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <!--- <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"> --->
+  <img align="right" width="50%" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 </div>
 
 <!--About Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi ɪ'ᴍ Rytt! 
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Hi ɪ'ᴍ Rytt! 
 *Innovator (Developer / Programmer)*
 <br /> 
 
@@ -32,6 +33,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=its-ryyt&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="its-ryyt" style="padding-right:20px;" />
 </p>
+</br>
 
 ---
 
