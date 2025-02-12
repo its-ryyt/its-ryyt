@@ -27,6 +27,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://royetcamay.com) for more details about me.
+- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/royet-camay-6a9458133/) 🏆.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
