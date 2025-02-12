@@ -75,9 +75,9 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 </br>
 <span align="left"><strong>Tech Updates</strong></span></br></br>
 <ul align="left">
-  <li><a href="#">😎Debug Like a Pro in 2025🧑‍💻</a></li>
-  <li><a href="#">✨Open-Source Hidden Gems v2🤯</a></li>
-  <li><a href="#">🫵You Should Try These Tools In Your Next Project</a></li>
+  <li><a href="https://www.cards-pick.com/topic/top-artificial-intelligence-companies?utm_source=bing&utm_medium=cpc&utm_campaign=0106newCards_AI+company-ecpc-C&utm_term=ai+software+companies&utm_content=0106new-AI+company">😎Revolutionary AI Tech - Leading AI Companies🧑‍💻</a></li>
+  <li><a href="https://community.openai.com/">✨OpenAI Developer Community🤯</a></li>
+  <li><a href="https://www.geeksforgeeks.org/best-software-development-tools/">🫵10 Best Software Development Tools [2025 Updated]</a></li>
 </ul>
 <br />
 <br />
