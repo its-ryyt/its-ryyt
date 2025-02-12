@@ -7,7 +7,6 @@
 </p>
 
 <!--Night Owl image Icon-->
-
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
@@ -33,6 +32,16 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=its-ryyt&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="its-ryyt" style="padding-right:20px;" />
 </p>
+
+---
+
+<!-- Ranking -->
+<h2 align="center"><img src="https://github.com/user-attachments/assets/6892f314-6025-4b15-a695-8e74fc666b47" alt="Rank" width="25" height="25"/> Tech Stack Ranking</h2>
+<br />
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ryyt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px">
+</div>
+</br>
 
 ---
 
@@ -112,7 +121,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
       <p align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></p>
       <p align="center">
         <a href="https://github.com/its-ryyt">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-ryyt&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=its-ryyt&count_private=true&show_icons=true&theme=dark&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -162,8 +171,8 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 <!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=The%20desire%20for%20more%20positive%20experience%20is%20itself%20a%20negative%20experience.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+<p align="center" style="font-weight:300;">
+<img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=The%20desire%20for%20more%20positive%20experience%20is%20itself%20a%20negative%20experience.&theme=dark&font_weight=light&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
