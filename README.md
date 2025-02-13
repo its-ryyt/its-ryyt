@@ -34,6 +34,38 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=its-ryyt&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="its-ryyt" style="padding-right:20px;" />
 </p>
+
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
+</br>
+
+ ---
+ 
+ ```python
+ class WhoAmI:
+    name = "Royet G. Camay",
+    user = "its-Ryyt",
+	current_edu = "Cebu Roosevelt Memorial Colleges",
+	hobbies = [
+				'Coding',
+				'Watching Anime' : {["One Piece","Demon Slayer","Dragon Ball","Bleach"]},
+				'Listening Music'
+				'Being up all Night chasing that ONE BUG...'
+			],
+    active = true
+	
+	def getCity():
+		return Cebu_Philippines()
+
+    def whereIcameFrom():
+         return fromMy_Mother()
+
+	def Ambitions():
+		LearnJapanese()
+		CreateSkyNet()
+		CreateAI()
+	
+ ```
+
 </br>
 
 ---
@@ -204,13 +236,11 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Eric%20Hoffer&quote=The%20hardest%20arithmetic%20to%20master%20is%20that%20which%20enables%20us%20to%20count%20our%20blessings.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20highest%20level%20of%20wisdom%20is%20when%20you%20not%20only%20accept%20but%20love%20adversity.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
 
 
 
