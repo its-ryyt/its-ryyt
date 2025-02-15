@@ -13,18 +13,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PAT_TOKEN }}  # Use a PAT to count contributions
+          token: ${{ secrets.PAT_TOKEN }}  # Use PAT for commit contributions
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 18
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install dependencies (if package.json exists)
+        run: |
+          if [ -f package.json ]; then
+            npm install
+          else
+            echo "Skipping npm install: No package.json found."
+          fi
 
       - name: Update Quote
-        run: node update-quote.js
+        run: node update-quote.js || echo "Skipping update-quote.js (file not found)"
 
       - name: Commit and push changes
         run: |
@@ -42,4 +47,4 @@ jobs:
           fi
 
           git commit -m "Update README with daily quote"
-          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/its-ryyt/YOUR_REPO_NAME.git main
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/its-ryyt/its-ryyt.git main
