@@ -1,9 +1,9 @@
 name: Update Quote
 
 on:
-  workflow_dispatch:  #Manually trigger the workflow
+  workflow_dispatch:  # Allows manual triggering
   schedule:
-    - cron: '30 6 * * *'  # Schedule daily at 12:01 AM
+    - cron: '30 6 * * *'  # Schedule daily at 6:30 AM UTC (2:30 PM PHT)
 
 jobs:
   update-readme:
@@ -11,23 +11,35 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}  # Use a PAT to count contributions
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 14
+          node-version: 18
 
       - name: Install dependencies
         run: npm install
 
       - name: Update Quote
         run: node update-quote.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
+          git config --global user.name "its-ryyt"
+          git config --global user.email "expanderqwertz@gmail.com"
+
+          git checkout main || git checkout -b main  # Ensure correct branch
+
           git add README.md
-          git -c user.name='its-ryyt' -c user.email='expanderqwertz@gmail.com' commit -m "Update README with daily quote" -a
-          git push
+          
+          # Only commit if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes detected, skipping commit."
+            exit 0
+          fi
+
+          git commit -m "Update README with daily quote"
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/its-ryyt/YOUR_REPO_NAME.git main
