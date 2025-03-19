@@ -270,11 +270,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Adversity%20is%20the%20tempering%20of%20one's%20mettle.%20Without%20it%2C%20we%20cannot%20know%20any%20true%20meaning%20in%20our%20accomplishments.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=Don't%20be%20afraid%20of%20missing%20opportunities.%20Behind%20every%20failure%20is%20an%20opportunity%20somebody%20wishes%20they%20had%20missed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
