@@ -271,11 +271,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=Don't%20be%20afraid%20of%20missing%20opportunities.%20Behind%20every%20failure%20is%20an%20opportunity%20somebody%20wishes%20they%20had%20missed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Carl%20Jung&quote=There's%20no%20coming%20to%20consciousness%20without%20pain&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
