@@ -305,11 +305,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=You%20can%20do%20nothing%20to%20change%20the%20past%2C%20and%20the%20future%20will%20never%20come%20exactly%20as%20you%20plan%20or%20hope%20for.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=Meanings%20are%20not%20determined%20by%20situations%2C%20but%20we%20determine%20ourselves%20by%20the%20meanings%20we%20give%20to%20situations.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
