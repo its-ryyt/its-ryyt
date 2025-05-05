@@ -317,11 +317,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Meister%20Eckhart&quote=It%20is%20in%20the%20darkness%20that%20one%20finds%20the%20light.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Twain&quote=Everyone%20is%20a%20moon%2C%20and%20has%20a%20dark%20side%20which%20he%20never%20shows%20to%20anybody.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
