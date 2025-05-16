@@ -328,11 +328,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=All%20human%20wisdom%20is%20contained%20in%20these%20two%20words%20-%20Wait%20and%20Hope&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Ralph%20Marston&quote=Expect%20the%20best%20of%20yourself%2C%20and%20then%20do%20what%20is%20necessary%20to%20make%20it%20a%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
