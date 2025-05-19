@@ -102,33 +102,40 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 ---
 
 <!--Languages and Tools Section-->         
-<h2 align="center"><img src="https://github.com/user-attachments/assets/e1cc7a04-15b7-4b6e-96c9-995a0aa3edb1" alt="Visual Studio" width="20" height="20"/> Tᴇᴄʜ sᴛᴀᴄᴋ & Tech Updates</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+<h2 align="center">
+  <img src="https://github.com/user-attachments/assets/e1cc7a04-15b7-4b6e-96c9-995a0aa3edb1" alt="Visual Studio" width="20" height="20"/> 
+  Tᴇᴄʜ sᴛᴀᴄᴋ & Tech Updates
+</h2> 
+
+<!-- Ensures the image appears on the next line -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img src="./Skills_Animation_White.gif" alt="GIF description" width="300">
+  </picture>
+</p>
+
 <br />
 
 <span align="left"><strong>Current Learning</strong></span>
 <ul align="left">
   <li>Deepening my knowledge on AI.</li>
-  <li>Exploring advanced in C# ASP.NET patterns and structure management techniques.</li>
+  <li>Exploring advanced C# ASP.NET patterns and structure management techniques.</li>
   <li>Improving my skills in API Integration.</li>
 </ul>
-</br>
-<span align="left"><strong>Tech Updates</strong></span></br></br>
+
+<br />
+<span align="left"><strong>Tech Updates</strong></span>
+<br />
+
 <ul align="left">
-  <li><a href="https://www.cards-pick.com/topic/top-artificial-intelligence-companies?utm_source=bing&utm_medium=cpc&utm_campaign=0106newCards_AI+company-ecpc-C&utm_term=ai+software+companies&utm_content=0106new-AI+company">😎Revolutionary AI Tech - Leading AI Companies🧑‍💻</a></li>
-  <li><a href="https://community.openai.com/">✨OpenAI Developer Community🤯</a></li>
-  <li><a href="https://www.geeksforgeeks.org/best-software-development-tools/">🫵10 Best Software Development Tools [2025 Updated]</a></li>
+  <li><a href="https://www.cards-pick.com/topic/top-artificial-intelligence-companies?utm_source=bing&utm_medium=cpc&utm_campaign=0106newCards_AI+company-ecpc-C&utm_term=ai+software+companies&utm_content=0106new-AI+company">😎 Revolutionary AI Tech - Leading AI Companies 🧑‍💻</a></li>
+  <li><a href="https://community.openai.com/">✨ OpenAI Developer Community 🤯</a></li>
+  <li><a href="https://www.geeksforgeeks.org/best-software-development-tools/">🫵 10 Best Software Development Tools [2025 Updated]</a></li>
 </ul>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+<br /><br /><br />
 
 ---
 
