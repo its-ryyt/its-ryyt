@@ -346,11 +346,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Frank&quote=The%20dead%20receive%20more%20flowers%20than%20the%20living%20because%20regret%20is%20stronger%20than%20gratitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Eckhart%20Tolle&quote=You%20can%20only%20lose%20something%20that%20you%20have%2C%20but%20you%20cannot%20lose%20something%20that%20you%20are.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
