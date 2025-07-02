@@ -382,11 +382,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Jim%20Rohn&quote=Your%20life%20does%20not%20get%20better%20by%20chance%2C%20it%20gets%20better%20by%20change.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lily%20Tomlin&quote=If%20you%20read%20a%20lot%20of%20books%2C%20you're%20considered%20well-read.%20But%20if%20you%20watch%20a%20lot%20of%20TV%2C%20you're%20not%20considered%20well-viewed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
