@@ -412,11 +412,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Spurgeon&quote=Our%20anxiety%20does%20not%20empty%20tomorrow%20of%20its%20sorrows%2C%20but%20only%20empties%20today%20of%20its%20strengths.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Lao%20Tzu&quote=A%20man%20with%20outward%20courage%20dares%20to%20die%3A%20a%20man%20with%20inner%20courage%20dares%20to%20live.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
