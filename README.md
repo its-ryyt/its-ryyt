@@ -421,11 +421,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Kiyosaki&quote=Thinking%20is%20the%20hardest%20work%20there%20is.%20That%20is%20why%20so%20few%20people%20engage%20in%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Shunryu%20Suzuki&quote=Where%20ever%20you%20are%2C%20you%20are%20one%20with%20the%20clouds%20and%20one%20with%20the%20sun%20and%20the%20stars%20you%20see.%20You%20are%20one%20with%20everything.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
