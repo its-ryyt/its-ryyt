@@ -449,11 +449,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Alfred%20Adler&quote=The%20one%20who%20boasts%20does%20so%20only%20out%20of%20a%20feeling%20of%20inferiority.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Napoleon%20Hill&quote=Deliberately%20seek%20the%20company%20of%20people%20who%20influence%20you%20to%20think%20and%20act%20on%20building%20the%20life%20you%20desire.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
