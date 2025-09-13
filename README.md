@@ -455,11 +455,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Confucius&quote=It%20doesn't%20matter%20how%20slow%20you%20go%2C%20as%20long%20as%20you%20don't%20stop.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Socrates&quote=The%20world%20is%20a%20puzzle%3B%20no%20need%20to%20make%20sense%20out%20of%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
