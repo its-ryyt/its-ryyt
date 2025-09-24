@@ -466,11 +466,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Cameron&quote=Failure%20is%20an%20option%2C%20fear%20is%20not.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=Be%20gentle%20with%20yourself.%20Think%20less%20and%20feel%20more.%20Be%20as%20happy%20as%20you%20can.%20You%20only%20have%20this%20moment.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
