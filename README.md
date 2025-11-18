@@ -521,11 +521,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=Each%20of%20us%20is%20a%20unique%20strand%20in%20the%20intricate%20web%20of%20life%20and%20here%20to%20make%20a%20contribution.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20hard%20path%20is%20often%20the%20right%20one.%20The%20river%20teaches%20more%20than%20the%20shore.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
