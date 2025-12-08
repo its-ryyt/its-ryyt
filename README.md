@@ -541,11 +541,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Robert%20Greene&quote=Life%20goes%20by%20very%20fast.%20And%20the%20worst%20thing%20in%20life%20that%20you%20can%20have%20is%20a%20job%20that%20you%20hate%2C%20and%20have%20no%20energy%20and%20creativity%20in.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Osho&quote=Don't%20seek%2C%20don't%20search%2C%20don't%20ask%2C%20don't%20knock%2C%20don't%20demand%20-%20relax.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
