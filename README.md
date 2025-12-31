@@ -564,11 +564,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=Continuous%20effort%20-%20not%20strength%20or%20intelligence%20-%20is%20the%20key%20to%20unlocking%20our%20potential.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20Faulkner&quote=Always%20dream%20and%20shoot%20higher%20than%20you%20know%20you%20can%20do.%20Do%20not%20bother%20just%20to%20be%20better%20than%20your%20contemporaries%20or%20predecessors.%20Try%20to%20be%20better%20than%20yourself.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
