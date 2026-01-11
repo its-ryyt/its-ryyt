@@ -575,11 +575,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Nelson%20Mandela&quote=There%20can%20be%20no%20greater%20gift%20than%20that%20of%20giving%20one's%20time%20and%20energy%20to%20help%20others%20without%20expecting%20anything%20in%20return.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Today%20I%20begin%20a%20new%20life.%20I%20will%20greet%20this%20day%20with%20love%20in%20my%20heart.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
