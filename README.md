@@ -585,11 +585,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=People%20often%20say%20that%20motivation%20doesn't%20last.%20Well%2C%20neither%20does%20bathing%20-%20that's%20why%20we%20recommend%20it%20daily.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Deepak%20Chopra&quote=People%20are%20doing%20the%20best%20that%20they%20can%20from%20their%20own%20level%20of%20consciousness.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
