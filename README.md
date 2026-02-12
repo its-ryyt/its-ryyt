@@ -607,11 +607,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Anne%20Wilson%20Schaef&quote=Life%20is%20a%20process.%20We%20are%20a%20process.%20The%20universe%20is%20a%20process.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Alexandre%20Dumas&quote=There%20are%20two%20ways%20of%20seeing%3A%20with%20the%20body%20and%20with%20the%20soul.%20The%20body's%20sight%20can%20sometimes%20forget%2C%20but%20the%20soul%20remembers%20forever.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
