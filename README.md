@@ -74,7 +74,6 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 <h2 align="center"><img src="https://github.com/user-attachments/assets/6892f314-6025-4b15-a695-8e74fc666b47" alt="Rank" width="25" height="25"/> Tech Stack Ranking</h2>
 <br />
 <div align="center"> 
-	![Languages](images/languages.svg)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-ryyt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400px">
 </div>
 </br>
