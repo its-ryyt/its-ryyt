@@ -622,11 +622,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dr.%20Seuss&quote=It's%20not%20about%20what%20it%20is%2C%20it's%20about%20what%20it%20can%20become.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20secret%20of%20change%20is%20to%20focus%20all%20your%20energy%20not%20on%20fighting%20the%20old%2C%20but%20on%20building%20the%20new.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
