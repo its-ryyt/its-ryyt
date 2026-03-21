@@ -644,11 +644,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Joyce%20Meyer&quote=One%20mistake%20does%20not%20have%20to%20rule%20a%20person's%20entire%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Winston%20Churchill&quote=A%20pessimist%20sees%20the%20difficulty%20in%20every%20opportunity%3B%20an%20optimist%20sees%20the%20opportunity%20in%20every%20difficulty.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
