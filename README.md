@@ -655,11 +655,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=John%20Wooden&quote=Make%20each%20day%20your%20masterpiece.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Toni%20Morrison&quote=If%20you%20can't%20imagine%20it%2C%20you%20can't%20have%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
