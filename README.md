@@ -659,11 +659,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Celestine%20Chua&quote=Instead%20of%20thinking%20about%20what%20you%20are%20going%20to%20do%20when%20you%20retire%2C%20think%20about%20how%20you%20can%20do%20that%20now%20and%20make%20a%20living%20from%20it.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=Ask%20no%20questions%2C%20and%20you'll%20be%20told%20no%20lies.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
