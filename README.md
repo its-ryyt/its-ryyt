@@ -707,11 +707,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Elon%20Musk&quote=When%20something%20is%20important%20enough%2C%20you%20do%20it%20even%20if%20the%20odds%20are%20not%20in%20your%20favor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Bernard%20Shaw&quote=You%20use%20a%20glass%20mirror%20to%20see%20your%20face%3B%20you%20use%20works%20of%20art%20to%20see%20your%20soul.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
