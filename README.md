@@ -720,11 +720,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Gilbert%20Chesterton&quote=Do%20not%20be%20so%20open-minded%20that%20your%20brains%20fall%20out.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=J.R.R.%20Tolkien&quote=Short%20cuts%20make%20long%20delays.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
