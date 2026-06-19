@@ -734,11 +734,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Gretzky&quote=Only%20one%20thing%20is%20ever%20guaranteed%2C%20that%20is%20that%20you%20will%20definitely%20not%20achieve%20the%20goal%20if%20you%20don't%20take%20the%20shot.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dogen&quote=To%20escape%20from%20the%20world%20means%20that%20one's%20mind%20is%20not%20concerned%20with%20the%20opinions%20of%20the%20world.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
