@@ -740,11 +740,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Josh%20Waitzkin&quote=We%20learn%20by%20pushing%20ourselves%20and%20finding%20what%20really%20lies%20at%20the%20outer%20reaches%20of%20our%20abilities.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Tony%20Robbins&quote=Why%20live%20an%20ordinary%20life%2C%20when%20you%20can%20live%20an%20extraordinary%20one.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
