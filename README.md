@@ -757,11 +757,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Margaret%20Mead&quote=What%20people%20say%2C%20what%20people%20do%2C%20and%20what%20they%20say%20they%20do%20are%20entirely%20different%20things.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Brian%20Tracy&quote=The%20Law%20of%20Concentration%20states%20that%20whatever%20you%20dwell%20upon%20grows.%20The%20more%20you%20think%20about%20something%2C%20the%20more%20it%20becomes%20part%20of%20your%20reality.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
