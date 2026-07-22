@@ -767,11 +767,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Henry%20Ward%20Beecher&quote=The%20unthankful%20heart%20discovers%20no%20mercies%3B%20but%20the%20thankful%20heart%20will%20find%2C%20in%20every%20hour%2C%20some%20heavenly%20blessings.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Chinese%20Proverb&quote=A%20man%20who%20cannot%20tolerate%20small%20misfortunes%20can%20never%20accomplish%20great%20things.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
