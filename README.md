@@ -836,11 +836,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Oscar%20Wilde&quote=Be%20yourself%3B%20everyone%20else%20is%20already%20taken%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Theodore%20Roosevelt&quote=It%20is%20hard%20to%20fail%2C%20but%20it%20is%20worse%20never%20to%20have%20tried%20to%20succeed.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
