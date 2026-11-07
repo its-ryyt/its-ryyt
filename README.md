@@ -60,7 +60,7 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
          return fromMy_Mother()
 
 	def Ambitions():
-		LearnJapanese()
+		BuildStartupCompany()
 		CreateSkyNet()
 		CreateAI()
 	
