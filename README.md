@@ -886,11 +886,13 @@ I am a huge love for C#, PHP, Javascript, SQL, Angular, Laravel, REST API and Da
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=William%20James&quote=Genius%2C%20in%20truth%2C%20means%20little%20more%20than%20the%20faculty%20of%20perceiving%20in%20an%20unhabitual%20way.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Sigmund%20Freud&quote=Being%20entirely%20honest%20with%20oneself%20is%20a%20good%20exercise.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
